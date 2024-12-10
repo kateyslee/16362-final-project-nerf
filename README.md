@@ -43,7 +43,7 @@ You can find the results in `logs/fern_test`.
 
 
 ## Citation
-Kudos to the author of original NeRF-PyTorch implementation :)
+Kudos to the author of original [NeRF-pytorch](https://github.com/yenchenlin/nerf-pytorch) implementation :)
 ```
 @misc{lin2020nerfpytorch,
   title={NeRF-pytorch},

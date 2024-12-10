@@ -1,0 +1,17 @@
+# torch==1.11.0
+# torchvision>=0.9.1
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard>=2.0
+tqdm
+opencv-python
+lpips
+
+# PyTorch with CUDA 11.8
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.2
+
+--extra-index-url https://download.pytorch.org/whl/cu118
